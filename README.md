@@ -7,9 +7,9 @@ In order to get started, complete the short form below to add the cards that you
 
 
 
+## Submit feedback 
 
-
-Note: I do my best to ensure the rewards are accurate. If you notice a reward that looks off or if you have a card that isn't on the list that you'd like to add, feel free to open an issue on Github [link] or contact me via email at
+While I do my best to ensure the rewards are accurate, there may be mistakes. If you notice a reward that looks off, if you have a card that isn't one of the available cards, or any other bugs, feel free to open an issue on Github [link] or contact me via email at @gmail.com. 
 
 
 
