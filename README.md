@@ -3,8 +3,8 @@
 Smart Rewards is a tool to automatically return the best credit card to use depending on the type of purchase you're about to make.
 
 
+![image](https://user-images.githubusercontent.com/22303396/113958194-829baa00-97d5-11eb-9ec9-59e91d0452e2.png)
 
-https://user-images.githubusercontent.com/22303396/113957978-1e78e600-97d5-11eb-93c3-42f295d079dc.mp4
 
 
 
