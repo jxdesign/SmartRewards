@@ -1,15 +1,15 @@
 ## About 
 
-Smart Rewards is a tool to automatically return the best credit card to use depending on the type of purchase you're about to make. Here's a short demo of it below. 
+Smart Rewards is a tool to automatically return the best credit card to use depending on the type of purchase you're about to make. Here's a short demo of it below. This is actual reward data for three credit cards I use.  
 
 
 ![image](https://github.com/jxdesign/SmartRewards/blob/main/images/RPReplay_Final1612668248_1_compressed.gif)
 
 
 
-## Get Started 
+## Get started 
 
-In order to get started, complete the short form below to add the cards that you're interested in getting rewards for:
+In order to get started, complete the short Google form below to add the cards you're interested in getting your rewards for:
 
 
 [Google form link goes here]
@@ -18,8 +18,7 @@ In order to get started, complete the short form below to add the cards that you
 
 
 
-
-## 
+## Track progress
 
 View the latest that's been added to the product by looking at the headlines of our pull requests. 
 
