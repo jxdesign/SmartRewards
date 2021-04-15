@@ -12,7 +12,7 @@ Smart Rewards is a tool to automatically return the best credit card to use depe
 In order to get started, complete the short Google form below to add the cards you're interested in getting your rewards for:
 
 
-[Google form link goes here]
+https://forms.gle/PnWqf7ccxWq2Pwbv5
 
 
 
