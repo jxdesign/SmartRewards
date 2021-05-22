@@ -9,12 +9,10 @@ Smart Rewards is a tool to automatically return the best credit card to use depe
 
 ## Get started 
 
-In order to get started, complete the short Google form below to add the cards you're interested in getting your rewards for:
+In order to get started, complete the short Google form below to add the cards you're interested in getting your rewards for. You'll be taken to a demo of the bot after filling out the form. 
 
 
-https://forms.gle/F6d9uWQDsMCW8p29A
-
-
+[Form to demo the product for your cards](https://forms.gle/F6d9uWQDsMCW8p29A)
 
 
 
@@ -25,8 +23,13 @@ View the latest that's been added to the product by looking at the headlines of 
 [Latest iterations and builds](https://github.com/jxdesign/SmartRewards/pulls?q=is%3Apr+is%3Aclosed)
 
 
+## Add it to your phone
+
+If you'd like to add the bot to your 
+
+
 ## Submit feedback 
 
-While I do my best to ensure the rewards are accurate, there may be mistakes. If you notice a reward that looks off, or if you have a card that isn't one of the available cards, or any other bugs, feel free to open an issue on Github https://github.com/jxdesign/SmartRewards/issues or contact me via email on my bio. 
+While I do my best to ensure the rewards are accurate, there may be mistakes. If you notice a reward that looks off, or if you have a card that isn't one of the available cards, or any other bugs, feel free to [open an issue on Github](https://github.com/jxdesign/SmartRewards/issues) or contact me via email on my bio. 
 
 
