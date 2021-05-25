@@ -166,8 +166,6 @@ function main(params) {
   
   console.log("api key", params.apiKey);
   
-//var base = new Airtable({apiKey: 'keyj6I5jiTjkSk8so'}).base('appumWMhUzhgN8fFe');  
-  
   let rewardsPromise = new Promise((resolve,reject) => {  
     testCode(params.num,params.category,(rewards)=>{
       resolve(rewards);
