@@ -12,7 +12,7 @@ Smart Rewards is an SMS (and web) tool to automatically return the best credit c
 In order to get started, complete the short Google form below to add the cards you're interested in getting your rewards for. You'll be taken to a demo of the bot after filling out the form. 
 
 
-[Form to demo the product for your cards](https://forms.gle/F6d9uWQDsMCW8p29A)
+https://forms.gle/F6d9uWQDsMCW8p29A
 
 
 
