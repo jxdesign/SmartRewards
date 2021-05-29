@@ -25,7 +25,7 @@ View the latest that's been added to the product by looking at the headlines of 
 
 ## Adding it to your phone
 
-If you'd like to add the bot to your phone to text it, please send me an email and I can get you set up. My email can be found [on my bio page](https://github.com/jxdesign).
+If you'd like to add the bot to your phone, send me an email and I can get you set up. My email can be found [on my bio page](https://github.com/jxdesign).
 
 
 ## Submit feedback 
