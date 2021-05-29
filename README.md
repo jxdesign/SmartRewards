@@ -3,7 +3,8 @@
 Smart Rewards is an SMS (and web) tool to automatically return the best credit card to use depending on the type of purchase you're about to make. Here's a short demo of it below. This is actual reward data for three credit cards I use.
 
 
-![image](https://github.com/jxdesign/SmartRewards/blob/main/images/RPReplay_Final1612668248_1_compressed.gif)
+
+![CardBot_v2_clip_compressed gif](https://user-images.githubusercontent.com/22303396/120078988-ce94fd80-c066-11eb-934e-fa4e39159bde.gif)
 
 
 
