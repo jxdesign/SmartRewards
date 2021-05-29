@@ -23,9 +23,9 @@ View the latest that's been added to the product by looking at the headlines of 
 [Latest iterations and builds](https://github.com/jxdesign/SmartRewards/pulls?q=is%3Apr+is%3Aclosed)
 
 
-## Add it to your phone
+## Adding it to your phone
 
-If you'd like to add your bot to your phone, please send me an email and I can get you set up. My email can be found [on my bio page](https://github.com/jxdesign).
+If you'd like to add the bot to your phone to text it, please send me an email and I can get you set up. My email can be found [on my bio page](https://github.com/jxdesign).
 
 
 ## Submit feedback 
